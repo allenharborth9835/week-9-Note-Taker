@@ -22,7 +22,7 @@ The front end code was given for the project by class
 Github repo: https://github.com/coding-boot-camp/miniature-eureka
 
 ## Usage
-![snapshot](img/snapshot_note_taker.jpg)
+![snapshot](img/snapshot_note_taker.JPG)
 
 This page is great for storing notes. Simply enter the page and type in your commit and click the save button and click on comments on the left to review comments already created.
 
