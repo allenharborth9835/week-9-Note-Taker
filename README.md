@@ -22,7 +22,7 @@ The front end code was given for the project by class
 Github repo: https://github.com/coding-boot-camp/miniature-eureka
 
 ## Usage
-![snapshot](img/snapshot_note_taker.jpg)
+![snapshot](./img/snapshot_note_taker.jpg)
 
 This page is great for storing notes. Simply enter the page and type in your commit and click the save button and click on comments on the left to review comments already created.
 
@@ -54,7 +54,7 @@ heroku link: [live_test](https://allenharborth9835-note-taker.herokuapp.com/)
       ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
       OTHER DEALINGS IN THE SOFTWARE.
   </div>
-For more information, please refer to [https://unlicense.org](https://unlicense.org)
+For more information, please refer to [unlicense.org](https://unlicense.org)
 
 ## Contact-Info
 this project was created by Allen D Harborth  
