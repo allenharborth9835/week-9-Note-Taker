@@ -6,10 +6,12 @@ const PORT = process.env.PORT || 3001;
 
 const app = express();
 
+//app middle ware
 app.use(express.urlencoded({ extended: true}));
 app.use(express.json());
 app.use(express.static('public'));
 
+//app uses routes for api and html
 app.use('/api', api);
 app.use('/', html);
 
