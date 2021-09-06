@@ -54,7 +54,7 @@ heroku link: [live_test](https://allenharborth9835-note-taker.herokuapp.com/)
       ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
       OTHER DEALINGS IN THE SOFTWARE.
   </div>
-For more information, please refer to [unlicense.org](https://unlicense.org)
+For more information, please refer to https://unlicense.org
 
 ## Contact-Info
 this project was created by Allen D Harborth  
